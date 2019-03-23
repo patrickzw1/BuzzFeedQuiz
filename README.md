@@ -1,7 +1,7 @@
 # buzzfeedQuize
 
 This is a Java function. <br>
-This create a quiz that ask user to imput their choices and give a corresponding result.
+This create a quiz that ask user to input their choices and give a corresponding result.
 
 ## Example output
 What sport do you like:
